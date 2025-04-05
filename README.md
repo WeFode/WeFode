@@ -11,3 +11,5 @@ I'm a passionate **Full-Stack Developer** with a strong emphasis on **Frontend D
 *   **Email:** `[linwei688668@gmail.com]` 
 
 ---
+
+![](https://komarev.com/ghpvc/?username=WeFode) 
