@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** with a strong emphasis on **Frontend Developmen** working in major internet companies,**i have led a 10-person R&D team from 0-1 experience**.
+I am a full-stack development engineer, familiar with web, app, and mini-program multi-terminal development.
 
 ---
 
